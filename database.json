@@ -1,0 +1,102 @@
+{
+  "Category": [
+    {
+      "Id": 0,
+      "Name": "Cardiology",
+      "Picture": "https://firebasestorage.googleapis.com/v0/b/project198-ee047.appspot.com/o/Cardiology.png?alt=media&token=0aa6ee72-1f35-4b20-a00f-2cd72d3e8929"
+    },
+    {
+      "Id": 1,
+      "Name": "Dentistry",
+      "Picture": "https://firebasestorage.googleapis.com/v0/b/project198-ee047.appspot.com/o/Dentistry.png?alt=media&token=a0206a44-233c-4f94-a0d1-6fa7a7efa679"
+    },
+    {
+      "Id": 2,
+      "Name": "Neurology",
+      "Picture": "https://firebasestorage.googleapis.com/v0/b/project198-ee047.appspot.com/o/Neurology.png?alt=media&token=dcdee732-b595-4c92-b0cb-ac1527002a26"
+    },
+    {
+      "Id": 3,
+      "Name": "Orthopedics",
+      "Picture": "https://firebasestorage.googleapis.com/v0/b/project198-ee047.appspot.com/o/Orthopedics.png?alt=media&token=2359f6f1-4054-489c-8564-b3d3864803b6"
+    },
+    {
+      "Id": 4,
+      "Name": "Radiology",
+      "Picture": "https://firebasestorage.googleapis.com/v0/b/project198-ee047.appspot.com/o/Radiology.png?alt=media&token=50e097bf-71f5-4058-b082-e6075ac2484b"
+    }
+  ],
+  "Doctors": [
+    {
+      "Address": "8502 Preston Rd, Inglewood, Maine 98380",
+      "Biography": "A board-certified with over 25 years of experience,  specializing in heart conditions such as coronary artery  disease and arrhythmias. Known for patient-centered care  and a commitment to the latest medical advancements",
+      "Expriense": 20,
+      "Id": 0,
+      "Location": "http://maps.google.com/maps?q=loc:31.995801008207952,44.31452133516133",
+      "Mobile": "00123456789",
+      "Name": "Dr. Michael Roberts",
+      "Patiens": "1200+",
+      "Picture": "https://firebasestorage.googleapis.com/v0/b/project198-ee047.appspot.com/o/Dr.%20Michael%20Roberts.png?alt=media&token=2d1b192d-957c-4305-9169-cac8e65310e6",
+      "Rating": 4.2,
+      "Site": "http://www.test.com",
+      "Special": "Orthopedics"
+    },
+    {
+      "Address": "8502 Preston Rd, Inglewood, Maine 98380",
+      "Biography": "A board-certified with over 15 years of experience,  specializing in heart conditions such as coronary artery  disease and arrhythmias. Known for patient-centered care  and a commitment to the latest medical advancements",
+      "Expriense": 4,
+      "Id": 1,
+      "Location": "http://maps.google.com/maps?q=loc:31.995801008207952,44.31452133516133",
+      "Mobile": "00123456789",
+      "Name": "Dr. Sarah Thompson",
+      "Patiens": "500+",
+      "Picture": "https://firebasestorage.googleapis.com/v0/b/project198-ee047.appspot.com/o/Dr.%20Sarah%20Thompson.png?alt=media&token=3f269ca1-fa90-4068-9f62-2aa2eefffb30",
+      "Rating": 4.5,
+      "Site": "http://www.test.com",
+      "Special": "Cardiology"
+    },
+    {
+      "Address": "8502 Preston Rd, Inglewood, Maine 98380",
+      "Biography": "A board-certified with over 15 years of experience,  specializing in heart conditions such as coronary artery  disease and arrhythmias. Known for patient-centered care  and a commitment to the latest medical advancements",
+      "Expriense": 6,
+      "Id": 2,
+      "Location": "http://maps.google.com/maps?q=loc:31.995801008207952,44.31452133516133",
+      "Mobile": "00123456789",
+      "Name": "Dr. David Johnson",
+      "Patiens": "500+",
+      "Picture": "https://firebasestorage.googleapis.com/v0/b/project198-ee047.appspot.com/o/Dr.%20David%20Johnson.png?alt=media&token=ad7b4d1f-6189-4091-b0c0-a03495a78826",
+      "Rating": 4.2,
+      "Site": "http://www.test.com",
+      "Special": "Neurology"
+    },
+    null,
+    {
+      "Address": "8502 Preston Rd, Inglewood, Maine 98380",
+      "Biography": "A board-certified with over 3 years of experience,  specializing in heart conditions such as coronary artery  disease and arrhythmias. Known for patient-centered care  and a commitment to the latest medical advancements",
+      "Expriense": 3,
+      "Id": 4,
+      "Location": "http://maps.google.com/maps?q=loc:31.995801008207952,44.31452133516133",
+      "Mobile": "00123456789",
+      "Name": "Dr. Jessica Wyne",
+      "Patiens": "500+",
+      "Picture": "https://firebasestorage.googleapis.com/v0/b/project198-ee047.appspot.com/o/Dr%20Jessica%20Wyne.png?alt=media&token=9ad675d6-45e9-4bc5-b61b-fdecbcc6c79b",
+      "Rating": 4.1,
+      "Site": "http://www.test.com",
+      "Special": "Radiology Specialist"
+    },
+    {
+      "Address": "8502 Preston Rd, Inglewood, Maine 98380",
+      "Biography": "A board-certified with over 20 years of experience,  specializing in heart conditions such as coronary artery  disease and arrhythmias. Known for patient-centered care  and a commitment to the latest medical advancements",
+      "Expriense": 20,
+      "Id": 5,
+      "Location": "http://maps.google.com/maps?q=loc:31.995801008207952,44.31452133516133",
+      "Mobile": "00123456789",
+      "Name": "Dr. Richard Lee",
+      "Patiens": "500+",
+      "Picture": "https://firebasestorage.googleapis.com/v0/b/project198-ee047.appspot.com/o/Dr.%20Richard%20Lee.png?alt=media&token=44395363-ee6c-4483-bdc6-76ec9f2e7043",
+      "Rating": 4.5,
+      "Site": "http://www.test.com",
+      "Special": "Dentistry"
+    }
+  ]
+}
